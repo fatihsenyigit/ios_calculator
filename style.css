@@ -6,20 +6,19 @@
 
 .container {
   background-color: rgba(165, 42, 42, 0.455);
-  width: 380px;
-  height: 600px;
+  width: 320px;
+  height: 540px;
   margin: 40px auto;
   border-radius: 40px;
-  padding: 40px 20px 20px 20px;
-  position: relative;
+  padding: 10px;
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
 }
 
 .buttons {
-  /* border: 2px solid red; */
   width: 100%;
-  margin: auto;
-  bottom: 10px;
-  height: 400px;
+  height: 360px;
 }
 
 .buttonsA {
@@ -129,6 +128,6 @@
 
 .buttonsE div:first-child {
   background-color: aqua;
-  width: 43%;
+  width: 45%;
   border-radius: 2rem;
 }
