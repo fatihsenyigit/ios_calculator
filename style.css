@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: rgba(165, 42, 42, 0.455);
+  width: 380px;
+  height: 600px;
+  margin: 40px auto;
+  border-radius: 40px;
+  padding: 40px 20px 20px 20px;
+  position: relative;
+}
+
+.buttons {
+  /* border: 2px solid red; */
+  width: 100%;
+  margin: auto;
+  bottom: 10px;
+  height: 400px;
+}
+
+.buttonsA {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.buttonsA div {
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  margin: 5px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonsB {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.buttonsB div {
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  margin: 5px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonsC {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.buttonsC div {
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  margin: 5px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonsD {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.buttonsD div {
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  margin: 5px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonsE {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.buttonsE div {
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  margin: 5px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonsE div:first-child {
+  background-color: aqua;
+  width: 43%;
+  border-radius: 2rem;
+}
