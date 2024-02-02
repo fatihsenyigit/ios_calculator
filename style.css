@@ -92,4 +92,7 @@
   border-radius: 2rem;
 }
 
-/*  */
+.buttonsA div:hover, .buttonsB div:hover, .buttonsC div:hover, .buttonsD div:hover, .buttonsE div:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
