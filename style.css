@@ -53,7 +53,6 @@
     background-color: #A5A5A5;
     color: black;
     display: flex;
-    flex-direction: 
 }
 
 .buttonsA div:nth-child(3) {
@@ -132,7 +131,7 @@ font-family:Arial, Helvetica, sans-serif;
     display: grid;
 
       yada bu
-
+      
     grid-template-columns: 100px 100px 50px ;
     grid-template-rows: 100px 100px;
 
@@ -162,11 +161,8 @@ button.operator{
     background-color: #A5A5A5;
 }
 button.zero{
-
     grid-column: 1/span 2;
-
         yada bu
-
     grid-column-start:1 ;
     grid-column-end: 3;
 
