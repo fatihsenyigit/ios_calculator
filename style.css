@@ -53,7 +53,7 @@
     background-color: #A5A5A5;
     color: black;
     display: flex;
-    flex-direction: ;
+    flex-direction: 
 }
 
 .buttonsA div:nth-child(3) {
@@ -162,7 +162,7 @@ button.operator{
     background-color: #A5A5A5;
 }
 button.zero{
-  
+
     grid-column: 1/span 2;
 
         yada bu
